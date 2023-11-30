@@ -1,0 +1,30 @@
+  // const students = [
+  //   {
+  //     id: 101,
+  //     name: "Prince",
+  //     email: "prince0848@gmail.com",
+  //     phoneNo: 8378279963,
+  //     birth: "08/01/2000",
+  //   },
+  //   {
+  //     id: 102,
+  //     name: "Bharat",
+  //     email: "prince0848@gmail.com",
+  //     phoneNo: 8378279963,
+  //     birth: "08/01/2000",
+  //   },
+  //   {
+  //     id: 103,
+  //     name: "Subham",
+  //     email: "prince0848@gmail.com",
+  //     phoneNo: 8378279963,
+  //     birth: "08/01/2000",
+  //   },
+  //   {
+  //     id: 104,
+  //     name: "Piyush",
+  //     email: "prince0848@gmail.com",
+  //     phoneNo: 8378279963,
+  //     birth: "08/01/2000",
+  //   },
+  // ];
