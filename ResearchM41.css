@@ -1,0 +1,139 @@
+*{margin: 0;
+padding: 0;
+box-sizing: 0;}
+body{
+    font-family: sans-serif;
+    
+}
+.box-size{
+    max-width: 100%;
+}
+
+.header{
+    width: 100%;
+    background-color: #082c4e;;
+    position: fixed;
+    
+}
+.wrapper{
+    padding: 10px 100px;
+    /* position: fixed; */
+
+}
+.navebar{
+    width: 100%;
+    display: flex;
+}
+.logo{
+    padding: 10px;
+    width: 70%;
+    color: #f0f8ff;
+}
+.nav{
+    width: 30%;
+    padding: 10px;
+
+}
+a{
+    color:#f0f8ff;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 0px 10px;
+}
+ul{
+    display: inline-flex;
+}
+a:hover{
+    color: rgb(189, 43, 38);
+    border-bottom: 2px solid pink;
+   
+}  
+
+.wrapper1{
+    background-color: #082c4e;
+    padding: 0px 100px;
+
+}
+.content{
+    width: 100%;
+    display: flex;
+    padding: 80px 0px;
+}
+.internet{
+    width: 60%;
+    color: #f0f8ff;
+    /* padding: 50px 0px; */
+}
+.h{
+    font-size: 70px;
+    padding: 20px 0px;
+}
+.p1{
+    padding: 30px 0px;
+    font-size: 20px;
+}
+.btn{
+    padding: 20px 52px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    border-radius: 50px;
+    font-weight: bold;
+    background-color: transparent;
+    color: #f0f8ff;
+    border: 2px solid #f0f8ff;
+    
+
+}
+.btn:hover{
+    color: rgb(255, 99, 71);
+    background-color: rgb(50, 182, 205);
+   transition-duration: 0.4s;
+} 
+.image{
+    width: 40%;
+    align-items: center;
+    text-align: center;
+}
+.our{
+    text-align: center;
+    padding: 50px 0px;
+    font-size: 70px;
+    font-weight: bold;
+    color: #082c4e;
+    
+}
+.wrapper2{
+    padding: 10px 50px;
+}
+.cards{
+    width: 100%;
+    display: flex;
+}
+.card1{
+    width: 25%;
+    padding: 30px;
+    margin: 0px 20px;
+    background-color:#fe6571;
+}
+.card2{
+    width: 25%;
+    padding: 30px;
+    margin: 0px 20px;
+    background-color: #ffcc00;
+}
+.card3{
+    width: 25%;
+    padding: 30px;
+    margin: 0px 20px;
+    background-color: #22a5e5;
+}
+.card4{
+    width: 25%;
+    padding: 30px;
+    margin: 0px 20px;
+    background-color: rgb(192, 191, 197);
+}
+.text-info{
+    color: #03080c;
+}
